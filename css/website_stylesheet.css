@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: transparent;
+  }
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    padding-top: 100px;
+    border: none;
+}
+
+.navbar-brand{
+    padding-top: 0px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.thumbnail,
+.img-thumbnail {
+  border: none
+}
+
+.navbar-custom {
+    color: transparent;
+    background-color: transparent;
+}
