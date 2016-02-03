@@ -30,3 +30,21 @@
     color: transparent;
     background-color: transparent;
 }
+
+#myCarousel {
+  height: 300px;
+}
+
+
+.divider-row {
+  height: 100px;
+}
+
+#landing-snippets {
+  background-color: lightgrey;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.carousel-caption {
+}
